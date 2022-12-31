@@ -93,14 +93,11 @@ body {
 
 .shop h1 {
     text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 0;
 }
 
-.shop p {
-    margin-top: 10px;
-    line-height: 10px;
-}
-
-.shop img {
+.shop ul li img {
     float: left;
     height: 100%;
     width: 150px;
